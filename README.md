@@ -1,15 +1,21 @@
 # CapOneSES
-Capital One Software Engineering Summit Challenge
+Capital One Software Engineering Summit Challenge - Srishti Sanya Submission
+
+**note: in the development environment, the following dependencies need to be satisfied:
+Constructed on the Android API 17 Platform
+JDK 1.8
+Jsoup 1.8.3
+
 Functionality
 ------------------
-Put a URL of an article in the text field. Hit 'Summarize,' and wait a bit for it to load.
 
+Put a URL of an article in the text field. Hit 'Summarize,' and wait a bit for it to load.
 If you'd like the keyboard to minimize while you read, press 'Done.'
 
 Rationale:
 -------------------------
-We were asked to create a program that takes in an atricle and returns to the user a summary of the article. 
-What we did was create a program that takes into account multiple definitions of the word 'summary.'
+We were asked to create a program that takes in an article and returns to the user a summary of the article. 
+What I did was create a program that takes into account multiple definitions of the word 'summary.'
 There is the more consumerist definition, where a summary refers to a shortened version of the content that is more digestible to a user only looking to receive a basic shortening of a longer article
 And there is the more literal definition, in which all of the aspects of the article are broken down into consumable pieces of information.
 We took this to mean word count, number of paragraphs, links within the article body, and author information. 
