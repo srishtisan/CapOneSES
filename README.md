@@ -6,6 +6,9 @@ Capital One Software Engineering Summit Challenge - Srishti Sanya Submission
 * JDK 1.8
 * Jsoup 1.8.3
 
+Screenshot: 
+----
+![Screenshot](/CapOneSES/IMG_8441.PNG?raw=true "Screenshot")
 Functionality:
 ------------------
 To run on an Android device:
