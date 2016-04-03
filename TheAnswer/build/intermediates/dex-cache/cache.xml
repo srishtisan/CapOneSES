@@ -1,3 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="C:\Users\Srishti\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.8.3\65fd012581ded67bc20945d85c32b4598c3a9cf1\jsoup-1.8.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="65fd012581ded67bc20945d85c32b4598c3a9cf1">
+        <dex dex="C:\Users\Srishti\Downloads\TheAnswer\app\build\intermediates\pre-dexed\debug\jsoup-1.8.3_962db1e5b219c0bde9e440c7ebebb9913ed9d529.jar" />
+    </item>
+
+</items>
