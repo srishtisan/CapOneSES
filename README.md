@@ -8,7 +8,8 @@ Capital One Software Engineering Summit Challenge - Srishti Sanya Submission
 
 Screenshot: 
 ----
-![Screenshot](/CapOneSES/IMG_8441.PNG?raw=true "Screenshot")
+![alt text](https://github.com/srishtisan/CapOneSES/blob/master/IMG_8441.PNG)
+
 Functionality:
 ------------------
 To run on an Android device:
