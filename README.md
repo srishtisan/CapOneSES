@@ -3,6 +3,7 @@ Capital One Software Engineering Summit Challenge
 Functionality
 ------------------
 Put a URL of an article in the text field. Hit 'Summarize,' and wait a bit for it to load.
+
 If you'd like the keyboard to minimize while you read, press 'Done.'
 
 Rationale:
