@@ -2,8 +2,8 @@
 Capital One Software Engineering Summit Challenge - Srishti Sanya Submission
 
 **note: in the development environment, the following dependencies need to be satisfied:
-Constructed on the Android API 17 Platform \n
-JDK 1.8 \n
+Constructed on the Android API 17 Platform 
+JDK 1.8
 Jsoup 1.8.3
 
 Functionality
