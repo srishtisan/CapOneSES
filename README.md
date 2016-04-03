@@ -11,7 +11,8 @@ Functionality:
 To run on an Android device:
 Download the APK onto the device, and then run. 
 
-Paste or type a URL of an article into the text field. (The program is optimized for Washington Post articles, explanation following.)
+Paste or type a URL of an article into the text field. (The program is optimized for Washington Post articles, explanation following).
+
 Hit 'Summarize,' and wait a bit for the results to load. On most modern devices, this should be no longer than a couple of seconds. 
 
 
