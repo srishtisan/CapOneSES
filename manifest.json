@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+
+  
+"name": "Summarizer- Capital One Software Engineering Summit Challenge",
+  
+"description": "This extension summarizes an article when a link is entered",
+  
+"version": "1.0",
+
+  
+"browser_action": 
+{
+    "default_icon": "icon.png",
+    "default_popup": "prj1.java"
+, "default_title":"Summarizer"  },
+  
+"permissions": [
+    "activeTab",
+    "https://ajax.googleapis.com/"
+  ]
+}
